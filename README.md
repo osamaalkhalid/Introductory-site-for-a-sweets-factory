@@ -6,6 +6,7 @@ Sweets factory introduction page
   
  # Preview
  
+![screencapture-file-C-Users-The-Lord-Desktop-zain-index-html-2022-01-14-17_24_54](https://user-images.githubusercontent.com/86790667/149531280-9046bf45-acff-4cf4-9cff-b2f6a0f69f03.png)
 
  
  ## **Powered By**
